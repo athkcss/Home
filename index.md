@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+  <title> </title>
+  <link rel="stylesheet" type="text/css" href="athk.css">
+</head>
+<body>
+<div class="container box p-2 highlight f-2 "><ul>
 
-You can use the [editor on GitHub](https://github.com/athkcss/athk.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  <li class="inline highlight"><a class="unline" href="#">Link</a></li>
+    <li class="inline highlight"><a class="unline" href="#">Link</a></li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <li class="inline highlight"><a class="unline" href="#">Link</a></li>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+</ul></div> 
+<div class="container p-5 box m-4 ">
+  <div class="col tx-center"> 
 
-# Header 1
-## Header 2
-### Header 3
+    <h1> Hello world</h1>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  </p>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+  </div>  
+  
+</div>
+<div class="container p-5 m-3"> 
 
-**Bold** and _Italic_ and `Code` text
+<div class="row p-2"> 
+<div class="col p-3 m-3 box highlight"><img class="image" src="1.jpg">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <button class="btn btn-p">Order</button>  </div>
+<div class="col p-3 m-3 box highlight"><img class="image" src="1.jpg"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  <button class="btn btn-p">Order</button></div>
 
-[Link](url) and ![Image](src)
-```
+<div class="col p-3 m-3 box highlight"><img class="image" src="1.jpg"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <button class="btn btn-p">Order</button> </div>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+</div>  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/athkcss/athk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div>  
+</body>
+</html>
